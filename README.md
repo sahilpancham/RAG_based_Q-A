@@ -28,7 +28,7 @@ This application offers the following features:
 To run locally, follow these steps:
 
 1. Clone the repository:
-   >>>https://github.com/sahilpancham/RAG_based_Q&A.git
+   >>> https://github.com/sahilpancham/RAG_based_Q-A.git
 
 3. Install the required dependencies:
 - Streamlit
